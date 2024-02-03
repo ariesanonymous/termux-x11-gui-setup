@@ -18,6 +18,6 @@ Command to run script: bash xfce4.sh
 You can also type this command to run the script: ./xfce4.sh
 
 
-email : we.anonymous.us@gmail.com
-github : ariesanonymous
-telegram : @xdeveloperz
+Email : we.anonymous.us@gmail.com
+Github : ariesanonymous
+Telegram : @xdeveloperz
